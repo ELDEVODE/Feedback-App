@@ -1,6 +1,6 @@
 Feedback App
 
-(https://i.ibb.co/XZYjXTz/Feedback-App.jpg)
+![Feedback App](https://i.ibb.co/XZYjXTz/Feedback-App.jpg)
 
 In the project directory, you can run:
 
